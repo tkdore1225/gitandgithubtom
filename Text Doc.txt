@@ -1,1 +1,1 @@
-some text here
+some text here. New line has been added in first session [1 hour] of week 5.
