@@ -1,2 +1,2 @@
 some text here. New line has been added in first session [1 hour] of week 5. Line for Pull git command is added.
-typing anything
+typing anything on "my-new-branch"
